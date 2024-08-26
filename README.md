@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! I'm Dr Chris Currin, a professional problem solver passionate about people and intelligence 🏂 🧠
+
+### Scientist 🧬 | Engineer 🦾 | Community leader 🫱🏼‍🫲🏾
+
+#### NeuroAI, machine learning, and computational neuroscience expert
+
+See more and contact me on [my website](https://chriscurrin.com)
 
 <!--
 **ChrisCurrin/ChrisCurrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
